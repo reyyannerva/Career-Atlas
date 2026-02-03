@@ -1,3 +1,8 @@
+# CareerAtlas
+*A Digital Twin–Driven Skill Alignment and Career Intelligence Platform*
+
+> TL;DR — CareerAtlas quantifies how well university curricula align with real-world technology skill demand in Turkey using NLP, Machine Learning, Knowledge Graphs, Explainable AI, and Digital Twin modeling.
+ 
 CareerAtlas
 
 A Digital Twin–Driven Skill Alignment and Career Intelligence Platform
