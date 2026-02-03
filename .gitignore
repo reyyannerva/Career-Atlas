@@ -1,0 +1,30 @@
+﻿# caches
+__pycache__/
+*.py[cod]
+
+# venv
+.venv/
+venv/
+.venv*/
+.venv_*/
+
+# outputs (do not commit)
+artifacts/
+paper_data/
+paper_figures/
+reports/
+web/
+notebooks/
+docs/
+app/
+src_v2/
+
+# generated heavy files
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.pdf
+**/*.svg
+**/*.ckpt
+**/*.pt
+**/*.safetensors

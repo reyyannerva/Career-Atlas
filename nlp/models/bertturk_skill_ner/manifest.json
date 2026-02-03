@@ -1,0 +1,23 @@
+{
+  "base_model": "dbmdz/bert-base-turkish-cased",
+  "labels": [
+    "O",
+    "B-SKILL",
+    "I-SKILL"
+  ],
+  "max_length": 256,
+  "epochs": 3,
+  "train_file": "C:\\Users\\reyya\\OneDrive\\Belgeler\\kariyer_scraper\\nlp\\ner_training\\data_proc\\hf_train.jsonl",
+  "dev_file": "C:\\Users\\reyya\\OneDrive\\Belgeler\\kariyer_scraper\\nlp\\ner_training\\data_proc\\hf_dev.jsonl",
+  "final_metrics": {
+    "eval_loss": 0.20142069458961487,
+    "eval_precision": 0.32386363636363635,
+    "eval_recall": 0.4253731343283582,
+    "eval_f1": 0.3677419354838709,
+    "eval_accuracy": 0.9196492483894059,
+    "eval_runtime": 4.9227,
+    "eval_samples_per_second": 4.469,
+    "eval_steps_per_second": 0.609,
+    "epoch": 3.0
+  }
+}
